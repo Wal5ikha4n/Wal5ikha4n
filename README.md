@@ -1,6 +1,6 @@
 
 # Hi, there...
-## I'm wali-tec!
+## Welcome to wali-tec!
 [![Python Icon](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
 
 
