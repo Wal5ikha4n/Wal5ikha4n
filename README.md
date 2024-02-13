@@ -2,6 +2,8 @@
 # Hi, there...
 ## Welcome to wali-tec!
 [![Python Icon](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
+[C++ icon](https://www.flaticon.com/free-icon/c_6132222)
+
 
 
 
