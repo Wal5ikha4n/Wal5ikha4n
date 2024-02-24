@@ -2,10 +2,13 @@
 # Hi, there...
 ## Welcome to wali-tec!
 [![Python Icon](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
-![c++ Icon](https://cdn.iconscout.com/icon/free/png-256/free-c-4-226082.png)
-![html Icon](https://cdn.iconscout.com/icon/free/png-256/free-html-59-225995.png)
-![html Icon](https://cdn.iconscout.com/icon/premium/png-256-thumb/web-css-1-502527.png)
-![html Icon](https://cdn.iconscout.com/icon/free/png-256/free-window-code-coding-development-css-html-javascript-3-4228.png)
+[![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)](https://en.wikipedia.org/wiki/JavaScript)
+[![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/128px-ISO_C%2B%2B_Logo.svg.png)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/128px-HTML5_logo_and_wordmark.svg.png)](https://en.wikipedia.org/wiki/HTML)
+[![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/128px-CSS3_logo_and_wordmark.svg.png)](https://en.wikipedia.org/wiki/CSS)
+
+
+
 
 
 
