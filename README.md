@@ -1,6 +1,6 @@
 # Hi, there...
 ## Welcome to wali-tec!
-# 📱 React Native App
+# 📱 React Native Developer
 
 A cross-platform mobile application built using [React Native](https://reactnative.dev/).
 
