@@ -1,53 +1,80 @@
-# Hi, there...
-## Welcome to wali-tec!
-# 📱 React Native Developer
+# Hi, there... 👋
+## Welcome to Wali-Tech!
 
-A cross-platform mobile application built using [React Native](https://reactnative.dev/).
+### 💻 Web & Mobile App Developer
 
-## 🚀 Features
+Passionate about building modern, responsive, and user-friendly applications for both **Web** and **Mobile** platforms. I enjoy creating clean, efficient, and scalable solutions while continuously learning new technologies.
 
-- 🔥 Cross-platform support (iOS & Android)
-- ⚛️ Built with React Native + TypeScript/JavaScript
-- 📦 Easy to scale and maintain
-- 🧪 Unit and integration testing support
-- 📱 Responsive UI with reusable components
+---
 
-## 📷 Screenshots
+## 🚀 About Me
 
-<!-- Add screenshots here if available -->
-<!-- ![Screenshot](path/to/screenshot.png) -->
-Available
+- 📱 Mobile App Developer using **Flutter**
+- 🌐 Strong interest in **PHP & MySQL** for Web Development
+- 💻 Frontend development with **HTML, CSS, JavaScript, and Bootstrap**
+- 🗄️ Database design and management with **MySQL**
+- 🎯 Focused on writing clean, maintainable, and scalable code
+- 📚 Always learning and improving my development skills
+
+---
+
+## ✨ Features
+
+- 📱 Cross-platform mobile applications using Flutter
+- 🌍 Responsive and modern web applications
+- 🎨 Clean and user-friendly UI/UX
+- 🛠️ Reusable and maintainable code structure
+- 🗄️ Efficient database design and management
+- 🚀 Performance-focused development
+- 📦 Scalable application architecture
+
+---
 
 ## 🛠️ Tech Stack
 
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/) 
-- [TypeScript](https://www.typescriptlang.org/) or JavaScript
-- [React Navigation](https://reactnavigation.org/)
+### 📱 Mobile Development
+- Flutter
+- Dart
 
+### 🌐 Web Development
+- PHP
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
+### 🗄️ Database
+- MySQL
 
+### 🔧 Tools & Technologies
+- Git & GitHub
+- Visual Studio Code
+- XAMPP
+- Android Studio
 
-<!--
-[![Python Icon](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
-[![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)](https://en.wikipedia.org/wiki/JavaScript)
-[![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/128px-ISO_C%2B%2B_Logo.svg.png)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/128px-HTML5_logo_and_wordmark.svg.png)](https://en.wikipedia.org/wiki/HTML)
-[![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/128px-CSS3_logo_and_wordmark.svg.png)](https://en.wikipedia.org/wiki/CSS)
--->
+---
 
+## 📈 Currently Learning
 
+- Advanced Flutter Development
+- RESTful APIs
+- State Management (Provider / Riverpod / BLoC)
+- Modern PHP Development
+- Laravel Framework
 
+---
 
+## 🎯 Goals
 
+- Build high-quality Web & Mobile applications
+- Contribute to open-source projects
+- Continuously improve my programming skills
+- Develop real-world software solutions
 
+---
 
+## 📫 Connect with Me
 
+Feel free to explore my repositories and don't forget to ⭐ your favorite projects!
 
-
-
-
-<!---
-Wal5ikha4n/Wal5ikha4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *"Code. Learn. Build. Improve. Repeat."* 🚀
