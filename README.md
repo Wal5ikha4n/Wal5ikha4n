@@ -1,5 +1,5 @@
 # Hi, there... 👋
-## Welcome to Wali-Tech!
+## Welcome to wali-developer!
 
 ### 💻 Web & Mobile App Developer
 
